@@ -18,7 +18,7 @@ export function UsePhone() {
     if (isCalling !== true) {
       return "...";
     }
-    return "message";
+    return "Calling...";
   }
 
   return {
