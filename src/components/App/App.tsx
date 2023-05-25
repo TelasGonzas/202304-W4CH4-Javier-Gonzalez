@@ -1,7 +1,7 @@
 import { Info } from "../info/info";
 import { Display } from "../display/display";
 import { Actions } from "../Actions/actions";
-import { Keyboard } from "../../keyboard/keyboard";
+import { Keyboard } from "../keyboard/keyboard";
 
 export function App() {
   return (
